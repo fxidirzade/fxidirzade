@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fakhri</h1>
-<h3 align="center">As a passionate software engineer specializing in Python and iOS development, I thrive on crafting elegant solutions to complex problems.</h3>
+<h3 align="center"> A passionate software engineer specializing in Python and iOS development, I thrive on crafting elegant solutions to complex problems.</h3>
 
 - 🔭 I’m currently working on [Python-Data-Visualization](https://github.com/fxidirzade/Python-Data-Visualization) and [HIMYM-Character-Frequency-Visualizer](https://github.com/fxidirzade/HIMYM-Character-Frequency-Visualizer/)
 
