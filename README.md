@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python,Matplotlib,UI/UX**
 
-- 🤝 I’m looking for help with [sks-frontend](https://github.com/Kunefe/sks-frontend)
+- 🤝 I’m looking for an internship
 
 - 💬 Ask me about **design, teamwork, python**
 
